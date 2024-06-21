@@ -1,6 +1,11 @@
-![banner](banner.png)
+Image Screenshot:
+![image](https://github.com/aanchalm010/macOSCalculator/assets/134163277/6c499f97-5227-4e58-8206-38c4beb4d931)
 
-## Clone of macOS calculator built with react
+Name: AANCHAL MAURYA
+DEPLOYMENT _ LINK :  https://chamoda.com/react-calculator/
+
+
+## Clone of calculator built with react
 
 ![Node.js CI](https://github.com/chamoda/react-calculator/workflows/Node.js%20CI/badge.svg)
 
