@@ -1,5 +1,3 @@
-# macOSCalculator
-This is scientific calculator made using React.
 ![banner](banner.png)
 
 ## Clone of macOS calculator built with react
